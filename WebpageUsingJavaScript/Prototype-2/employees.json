@@ -1,0 +1,87 @@
+{
+  "Response": {
+    "-xmlns:i": "http://www.w3.org/2001/XMLSchema-instance",
+    "Id": "c460941d-7271-42d5-9a76-da2ac62c71c6",
+    "Status": "OK",
+    "ProviderName": "Xero API Previewer",
+    "DateTimeUTC": "2018-10-07T03:21:12.4599205Z",
+    "Employees": {
+      "Employee": [
+        {
+          "EmployeeID": "63c571b3-bff0-4ce1-94f7-255c235580fa",
+          "FirstName": "Clive",
+          "LastName": "Thomas",
+          "Status": "ACTIVE",
+          "DateOfBirth": "1992-02-05T00:00:00",
+          "Gender": "M",
+          "UpdatedDateUTC": "2018-08-08T05:31:38"
+        },
+        {
+          "EmployeeID": "f8a88c95-6a46-47fd-bcf7-fb71089a4d63",
+          "FirstName": "John",
+          "MiddleNames": "Jam",
+          "LastName": "Smith",
+          "Status": "ACTIVE",
+          "Email": "testaccount@gmail.com",
+          "DateOfBirth": "1980-01-01T00:00:00",
+          "Gender": "F",
+          "Phone": "0400222300",
+          "Mobile": "0400222300",
+          "StartDate": "2007-06-13T00:00:00",
+          "UpdatedDateUTC": "2018-08-14T10:03:24"
+        },
+        {
+          "EmployeeID": "70f5f4c9-0634-4dbb-9b50-1342c9cb3483",
+          "FirstName": "John",
+          "MiddleNames": "James",
+          "LastName": "Smith",
+          "Status": "ACTIVE",
+          "Email": "testaccount@gmail.com",
+          "DateOfBirth": "1980-01-01T00:00:00",
+          "Gender": "F",
+          "Phone": "0400222300",
+          "Mobile": "0400222300",
+          "StartDate": "2007-06-13T00:00:00",
+          "UpdatedDateUTC": "2018-08-14T12:45:04"
+        },
+        {
+          "EmployeeID": "82f8515a-2ccf-408f-9b95-10953c2cbfbd",
+          "FirstName": "John",
+          "MiddleNames": "James",
+          "LastName": "Smith",
+          "Status": "ACTIVE",
+          "Email": "testaccount@gmail.com",
+          "DateOfBirth": "1980-01-01T00:00:00",
+          "Gender": "F",
+          "Phone": "0400222300",
+          "Mobile": "0400222300",
+          "StartDate": "2007-06-13T00:00:00",
+          "UpdatedDateUTC": "2018-08-01T05:40:50"
+        },
+        {
+          "EmployeeID": "40fafb59-91b1-4ad0-b3b7-01bf3a7f8375",
+          "FirstName": "MySecond",
+          "LastName": "Test",
+          "Status": "ACTIVE",
+          "DateOfBirth": "1990-01-01T00:00:00",
+          "Gender": "I",
+          "StartDate": "2018-08-01T00:00:00",
+          "OrdinaryEarningsRateID": "47057677-20fd-4abf-8de3-17aa143434c2",
+          "PayrollCalendarID": "5b7da2c7-d206-46a1-bb1a-9a1c16dc52e5",
+          "UpdatedDateUTC": "2018-08-01T05:50:20"
+        },
+        {
+          "EmployeeID": "6f75d8f6-04e3-47cc-b920-db6a02974b08",
+          "FirstName": "Test",
+          "LastName": "Employee",
+          "Status": "ACTIVE",
+          "DateOfBirth": "1990-03-01T00:00:00",
+          "StartDate": "2018-07-31T00:00:00",
+          "OrdinaryEarningsRateID": "47057677-20fd-4abf-8de3-17aa143434c2",
+          "PayrollCalendarID": "5b7da2c7-d206-46a1-bb1a-9a1c16dc52e5",
+          "UpdatedDateUTC": "2018-08-01T05:20:44"
+        }
+      ]
+    }
+  }
+}
